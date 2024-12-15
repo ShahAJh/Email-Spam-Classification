@@ -28,8 +28,8 @@ To run this project, the following Python libraries are required:
 - **Class 1 (spam)**: Strong recall (95%) shows the model effectively detects spam emails, with slightly lower precision (88%) due to false positives.
 
 ## Files in Repository
-- `email_spam.py`: The main script for implementing and evaluating the model.
-- `emails.csv`: The dataset file (download separately if not included).
+- `email_spam.ipynb`: The main script for implementing and evaluating the model.
+- `emails.csv`: The dataset file.
 - `README.md`: Project documentation.
 
 ## Future Improvements
