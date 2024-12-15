@@ -29,7 +29,7 @@ To run this project, the following Python libraries are required:
 
 ## Files in Repository
 - `email_spam.ipynb`: The main script for implementing and evaluating the model.
-- `emails.csv`: The dataset file.
+- `email.zip`: The dataset file.
 - `README.md`: Project documentation.
 
 ## Future Improvements
